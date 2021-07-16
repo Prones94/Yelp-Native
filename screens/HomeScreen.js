@@ -9,7 +9,6 @@ export default function HomeScreen({navigation}){
         title="Go To Search Screen"
         onPress={() => navigation.navigate('Search')}
       />
-    <Text>Hello</Text>
     </View>
   )
 }
